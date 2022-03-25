@@ -22,3 +22,10 @@ class Solution:
             else:
                 return [l + 1, r + 1]
         return []
+
+        # Solution 2
+        # dic = {}
+        # for i, num in enumerate(numbers):
+        #     if target-num in dic:
+        #         return [dic[target-num]+1, i+1]
+        # dic[num] = i
