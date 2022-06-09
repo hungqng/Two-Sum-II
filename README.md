@@ -1,4 +1,4 @@
-# Two-Sum-II-PY
+# Two-Sum-II
 Leetcode practice #167
 
 ## Built With
